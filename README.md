@@ -2,7 +2,9 @@
 
 Tasks:
 
-    1. Simple user registration: - Username => character length should be 6 to more and required field. - Password => minimum 8 character and required field. - First name => required field. - Last name => required field.
+    1. Simple user registration:
+    - Username => character length should be 6 to more and required field.
+    - Password => minimum 8 character and required field. - First name => required field. - Last name => required field.
 
     2. Simple login using registration credentials for user. Must use JWT Token to complete login.
     - Username => required field

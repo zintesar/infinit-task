@@ -1,0 +1,13 @@
+User Apis ,,,,
+,,,,
+ID,Method,Route,Access,Description
+1,POST,/api/users/login,Public,Login user & get token
+2,POST,/api/users/,Public,Register a new user
+3,GET,/api/users/,Public,Get all users
+,,,,
+,,,,
+Customer Apis ,,,,
+,,,,
+ID,Method,Route,Access,Description
+1,POST,/api/customers/,Private,Register a new customer
+2,GET,/api/customers/,Private,Get all customers
